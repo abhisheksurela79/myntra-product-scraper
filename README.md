@@ -1,5 +1,5 @@
 # myntra-product-scraper
-A Python wrapper on myntra's private API to scrape specific product data
+A python wrapper on myntra's private API to scrape specific product data
 
 
 I wrote this to access myntra's API and scrape publically availabe data without using any 3rd party dependencies like selenium.
